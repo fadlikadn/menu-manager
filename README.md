@@ -1,3 +1,15 @@
+# Roadmap Plan
+- [x] Add menu list with following structure
+- [ ] Simple user authentication
+- [ ] Menu Text Generator
+
+![Menu Puding](/src/assets/menu-puding.png)
+
+![Menu Bubur](/src/assets/menu-bubur.png)
+
+![Menu Nasi Tim](/src/assets/menu-nasi-tim.png)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
