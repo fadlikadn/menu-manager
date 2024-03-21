@@ -1,7 +1,7 @@
 import { MenuBuburTim, TypeMenuBuburTim } from "@/types"
 import { MENU_AYAM, MENU_BAYAM, MENU_BIT_ROOT, MENU_HATI, MENU_KACANG_HIJAU, MENU_KACANG_MERAH, MENU_KAKAP, MENU_LABU, MENU_LELE, MENU_PATIN, MENU_SALMON, MENU_SAPI, MENU_SEREALIA, MENU_TUNA, MENU_WORTEL } from "./ingredients"
 
-export const TYPE_MENU_BUBUR: Array<TypeMenuBuburTim> = [
+export const TYPE_MENU_BUBUR_TIM: Array<TypeMenuBuburTim> = [
     {
         prefix: 'W',
         name: 'High Fat / Weighhealthy',
@@ -25,7 +25,7 @@ export const TYPE_MENU_BUBUR: Array<TypeMenuBuburTim> = [
     },
 ]
 
-export const LIST_MENU_BUBUR: Array<MenuBuburTim> = [
+export const LIST_MENU_BUBUR_TIM: Array<MenuBuburTim> = [
     {
         code: 'W1',
         ingredients: [
