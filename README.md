@@ -9,6 +9,10 @@
 
 ![Menu Nasi Tim](/src/assets/menu-nasi-tim.png)
 
+# ShadcnUI Commands
+- Add component: `npx shadcn-ui@latest add <component-name>`, contoh: `npx shadcn-ui@latest add button` or `npx shadcn-ui@latest add dropdown-menu`
+- HSL Colors: https://www.smashingmagazine.com/2021/07/hsl-colors-css/
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

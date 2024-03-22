@@ -2,7 +2,9 @@ import { Button } from "@/components/ui/button"
 
 const MenuPage = () => {
     return (
-        <Button>Test Click Me</Button>
+        <div className="bg-warning">
+            <Button>Test Click Me</Button>
+        </div>
     )
 }
 
